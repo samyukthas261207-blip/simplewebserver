@@ -102,8 +102,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (30).png>)
-![alt text](<Screenshot (30)-1.png>)
+![alt text](<Screenshot (42).png>) ![alt text](<Screenshot (43).png>)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
